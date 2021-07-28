@@ -1,0 +1,24 @@
+{
+	"usuarios": [
+		{
+			"id": 1,
+			"nombre": "Luis",
+			"apellido": "Casanova Pech",
+			"cumple": "1994-04-19",
+			"email": "luis.casanova@hotmail.com",
+			"tel": "9992334482",
+			"rfc": "CAPOSJJM78DJS2",
+			"nickname": "luis4"
+		},
+		{
+            "id": 2,
+            "nombre": "Juan",
+            "apellido": "López",
+			"cumple": "1998-03-22",
+			"email": "juan.lopez@hotmail.com",
+			"tel": "9992334482",
+			"rfc": "IJUSJJM78D229",
+			"nickname": "juan4"
+		}
+	]
+}

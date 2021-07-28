@@ -1,0 +1,25 @@
+{
+	"reservaciones" : [
+		{
+			"id":1,
+			"usuario": "Luis Casanova",
+			"fecha": "2021-09-14",
+			"hora": "15:00",
+			"factura": "si"
+		},
+	    {
+	    	"id":2,
+	    	"usuario": "Juan Sánchez",
+	    	"fecha": "2021-09-14",
+	    	"hora": "15:00",
+	    	"factura": "si"
+	    },
+	    {
+	    	"id":3,
+	    	"usuario": "Luis Casanova",
+	    	"fecha": "2021-09-14",
+	    	"hora": "15:00",
+	    	"factura": "no"
+	    }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+	"sucursales" : [
+		{
+			"id":1,
+			"nombre": "Norte",
+			"mesasVentana": [1,2,3,4,5],
+			"mesasPasillo": [6,7,8,9,10,11,12],
+			"mesasJardin": [13,14,15],
+			"horarioApertura": "13:00",
+			"horarioCierre": "22:30"
+		},
+	    {
+	    	"id":2,
+	    	"nombre": "Centro",
+	    	"mesasVentana": [1,2,3,4,5,6,7],
+	    	"mesasPasillo": [8,9,10,11],
+	    	"mesasJardin": [12,13,14,15],
+	    	"horarioApertura": "13:00",
+	    	"horarioCierre": "22:30"
+	    },
+	    {
+	    	"id":3,
+	    	"nombre": "Pensiones",
+	    	"mesasVentana": [10,11,12,13,14,15],
+	    	"mesasPasillo": [4,5,6,7,8,9],
+	    	"mesasJardin": [1,2,3],
+	    	"horarioApertura": "13:00",
+	    	"horarioCierre": "22:30"
+	    }
+    ]
+}
